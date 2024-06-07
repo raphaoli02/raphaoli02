@@ -1,4 +1,8 @@
-## Hi there 👋
+Olá, Sou a Raphaella Santos, mas pode me chamar de Rapha😺
+
+Tenho 18 anos e sou apaixonada por gatos, jogos indies e... tecnologia! 💻 
+Mergulhei de cabeça nesse mundo recentemente e estou cursando análise e desenvolvimento de sistemas, mas com o foco em HTML e CSS no momento.
+
 
 <!--
 **raphaoli02/raphaoli02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
