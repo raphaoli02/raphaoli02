@@ -1,7 +1,7 @@
 Olá, Sou a Raphaella Santos, mas pode me chamar de Rapha😺
 
 Tenho 18 anos e sou apaixonada por gatos, jogos indies e... tecnologia! 💻 
-Mergulhei de cabeça nesse mundo recentemente e estou cursando análise e desenvolvimento de sistemas, mas com o foco em HTML e CSS no momento.
+Mergulhei de cabeça nesse mundo recentemente e estou cursando análise e desenvolvimento de sistemas, mas com o foco em HTML, CSS e JavaScript no momento.
 
 
 <!--
